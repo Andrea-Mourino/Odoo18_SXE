@@ -2,7 +2,7 @@
 
 ## Paso 1
 
-Primero, entramos a IntelliJ y creamos nuestro archivo docker-compose.yml, donde incluiremos todos los parámetros necesarios para la instalación de nuestro proyecto
+Primero, entramos a IntelliJ y creamos nuestro archivo ```docker-compose.yml```, donde incluiremos todos los parámetros necesarios para la instalación de nuestro proyecto
 
 <img width="471" height="544" alt="image" src="https://github.com/user-attachments/assets/91470394-efc0-4bf8-8d6c-f75e1b9e5dff" />
 <img width="541" height="418" alt="image" src="https://github.com/user-attachments/assets/2332473f-ac22-44b8-a346-c26224610db9" />
@@ -10,8 +10,8 @@ Primero, entramos a IntelliJ y creamos nuestro archivo docker-compose.yml, donde
 
 ## Paso 2
 
-Abrimos la terminal y escribimos docker compose up para que se ejecute.
-En caso de presentar algún fallo, usamos el comando docker compose down -v para borrar todo y volver a levantarlo
+Abrimos la terminal y escribimos ```docker compose up``` para que se ejecute.
+En caso de presentar algún fallo, usamos el comando ```docker compose down -v``` para borrar todo y volver a levantarlo
 
 <img width="949" height="261" alt="image" src="https://github.com/user-attachments/assets/993a966c-21a1-47c8-964d-fac6d714364f" />
 
